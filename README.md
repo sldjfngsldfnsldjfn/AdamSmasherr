@@ -8,7 +8,7 @@ I'm a student and a freelance professional specializing in **3D modeling** **cod
 
 - **Languages**: C, C++, Python, HTML, CSS
 - **3D Modeling** Blender/Marvelous Designer
-- **Animation** Blender/Cascadeur/Marvelous Designer
+- **Animation** Blender/Unreal Engine 5
 - **Video Editing** Adobe Premiere Pro/After Effects
 
 ## Experience 🌱
